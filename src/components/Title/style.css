@@ -1,0 +1,30 @@
+.titleContainer {
+    font-family: 'Baloo', sans-serif;
+    color: rgb(247, 241, 241);
+    text-shadow: 0 0 5px rgb(0, 0, 0);
+    margin-bottom: 50px;
+    margin-top: 25px;
+    width: 100%;
+    min-height: 280px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    text-align: center;
+    vertical-align: center;
+}
+
+.titleContainer h1 {
+    text-shadow: 0 0 5px rgb(0, 195, 255);
+    
+    font-size: 3.5em;
+}
+
+.titleContainer p {
+    font-size: 1.5em;
+}
+
+.jumbotron {
+    border-radius: 15px;
+    border: 1px solid #00000042;
+    background-color: #15005e80;
+    box-shadow: 0 3px 6px rgb(0, 0, 0);
+}

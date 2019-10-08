@@ -1,39 +1,39 @@
 [
     {
         "name": "pic1",
-        "image": ""
+        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjExMzk2fQ&w=1000&q=80"
     },
     {
         "name": "pic2",
-        "image": ""
+        "image": "https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2019/02/Landscapes-04-jeremy-flint.jpg?fit=1500%2C1000&ssl=1"
     },
     {
         "name": "pic3",
-        "image": ""
+        "image": "https://www.shutterbug.com/images/styles/600_wide/public/promompi3718.png"
     },
     {
         "name": "pic4",
-        "image": ""
+        "image": "https://photographycourse.net/wp-content/uploads/2014/11/Landscape-Photography-steps.jpg"
     },
     {
         "name": "pic5",
-        "image": ""
+        "image": "https://iso.500px.com/wp-content/uploads/2014/07/big-one.jpg"
     },
     {
         "name": "pic6",
-        "image": ""
+        "image": "https://hollanderdesign.com/app/uploads/2014/12/haven-meadows-2048x1366.jpg"
     },
     {
         "name": "pic7",
-        "image": ""
+        "image": "https://cdn.asla.org/uploadedImages/CMS/HomePage_New/green%20infrastructure.jpg"
     },
     {
         "name": "pic8",
-        "image": ""
+        "image": "https://mymodernmet.com/wp/wp-content/uploads/2019/05/wide-angle-landscape-photography-tutorial-mads-peter-iversen-2.jpg"
     },
     {
         "name": "pic9",
-        "image": ""
+        "image": "https://www.canva.com/learn/wp-content/uploads/2018/12/00-winterlandscapes_featimage.jpg"
     }
 
 ]
